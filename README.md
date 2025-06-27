@@ -2,14 +2,14 @@
 
 A React-based web application to search and explore books using the Open Library API.
 
-🔗 **Live Demo**: [https://booksearch-app.netlify.app](https://booksearch-app.netlify.app)
+🔗 **Live Demo**: [https://ritikesh-bookhub.netlify.app](https://ritikesh-bookhub.netlify.app)
 
 ---
 
 ## 🧠 Features
 
 - 🔍 Search for books by title
-- 📖 View book details like:
+- 📖 View book details:
   - Title, Author(s)
   - Cover image
   - First publish year
@@ -23,23 +23,6 @@ A React-based web application to search and explore books using the Open Library
 
 - ⚛️ React
 - 📦 React Router DOM
-- 🎨 CSS Flexbox + custom styles
+- 🎨 CSS (Flexbox layout)
 - 🌐 Open Library REST API
 - 🚀 Deployed on Netlify
-
----
-
-## 🧩 Folder Structure
-
-booksearch-app/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ ├── context.js
-│ ├── pages/
-│ ├── App.jsx
-│ └── index.js
-├── .env
-├── package.json
-└── README.md
