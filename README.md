@@ -31,3 +31,15 @@ A React-based web application to search and explore books using the Open Library
 
 ## 🧩 Folder Structure
 
+booksearch-app/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ ├── context.js
+│ ├── pages/
+│ ├── App.jsx
+│ └── index.js
+├── .env
+├── package.json
+└── README.md
